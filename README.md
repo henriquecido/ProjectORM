@@ -1,7 +1,5 @@
 # TrabalhoORM
 
-![GitHub Logo](https://github.com/henriquecido/TrabalhoORM/blob/main/image/imgreadme.PNG)
-
 ##  Sobre
 
 Trabalho da matéria de Programação Orientada a Objetos II, consiste em implementar um simples CRUD utilizando uma API de persistencia ao banco de dados, a API utilizada foi o Hibernate/JPA e a linguagem de programação foi Java. 
