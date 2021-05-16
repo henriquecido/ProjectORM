@@ -1,5 +1,5 @@
 # TrabalhoInstituicao
 
-![GitHub Logo](https://github.com/henriquecido/TrabalhoInstituicao/blob/main/Diagrama/READMEicon.png)
-
 ##  Sobre
+
+Object Oriented Programming II project, consists of implementing a simple CRUD using a database persistence API, the API used was Hibernate / JPA and the programming language was Java.
